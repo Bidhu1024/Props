@@ -1,9 +1,15 @@
-import React from 'react'
+import { Box } from "@mui/material";
+import React from "react";
 
 const Home = () => {
   return (
-    <div>Home</div>
-  )
-}
+    <Box width="100%">
+      <Box height="20rem" bgcolor={"red"} width={"100%"}></Box>
+      <Box width="100%">
 
-export default Home
+      </Box>
+    </Box>
+  );
+};
+
+export default Home;
