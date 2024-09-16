@@ -1,6 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Grid, Typography } from "@mui/material";
 import DummyProperties from "./DummyProperties.json";
 import { memo } from "react";
+import IndividualProperties from "./IndividualProperties";
+import { Property } from "../../helper/Types";
 
 const Home = () => {
   console.log(DummyProperties);
@@ -16,7 +18,8 @@ const Home = () => {
         width="100%"
         padding={"1rem"}
         bgcolor={"lightgrey"}
-        sx={{ opacity: "1" }}
+        sx={{ opacity: "1",mt:"1rem" }}
+
       >
         <Box
           display="flex"
@@ -39,6 +42,13 @@ const Home = () => {
             View More
           </Typography>
         </Box>
+       <Grid container spacing={2}>
+      {DummyProperties?.map((datas:Property)=>{
+        return(
+        <IndividualProperties datas={datas}/>
+        )
+      })}
+    </Grid>
       </Box>
     </Box>
   );
