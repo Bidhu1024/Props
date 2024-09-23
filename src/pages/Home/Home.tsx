@@ -3,6 +3,7 @@ import DummyProperties from "./DummyProperties.json";
 import { memo } from "react";
 import IndividualProperties from "./IndividualProperties";
 import { Property } from "../../helper/Types";
+import AppBar from './AppBar';
 
 const Home = () => {
   console.log(DummyProperties);
@@ -50,6 +51,7 @@ const Home = () => {
       })}
     </Grid>
       </Box>
+      <AppBar />
     </Box>
   );
 };

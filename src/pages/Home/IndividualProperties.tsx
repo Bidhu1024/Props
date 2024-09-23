@@ -1,8 +1,8 @@
 import React, { FC } from "react";
 import { Property } from "../../helper/Types";
-import { Box, Grid, Stack, Typography } from "@mui/material";
+import { Box, Grid, Stack, Tooltip, Typography } from "@mui/material";
 import CurrencyRupeeIcon from "@mui/icons-material/CurrencyRupee";
-
+import FavoriteBorderIcon from "@mui/icons-material/FavoriteBorder";
 interface IProps {
   datas: Property;
 }
@@ -11,15 +11,20 @@ const IndividualProperties: FC<IProps> = ({ datas }) => {
     <Grid item xs={3}>
       <Box
         sx={{
+          position:"relative",
           ":hover": {
             backgroundColor: "#f0f0f0",
-            transform:'scale(1.1)'
+            transform:'scale(1.1)',
+            cursor:"pointer"
           },
         }}
         border={"1px solid gray"}
         padding={"0.5rem"}
         borderRadius={"10px"}
       >
+        <Tooltip title="Add to Favourite">
+        <FavoriteBorderIcon sx={{position:'absolute', right:10, top:15,cursor:'pointer'}} />
+        </Tooltip>
         <img
           src={datas?.image}
           alt="ff"
