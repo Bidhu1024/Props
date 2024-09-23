@@ -1,7 +1,8 @@
 export type Property={
     name:string,
     price:string,
-    area:number,
+    area:string,
     datePosted:string,
-    image:string
+    image:string,
+    description:string
 }

@@ -4,69 +4,79 @@
         "price": "5000",
         "area": 1000,
         "datePosted": "AUG 24",
-        "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg"
+        "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
+        "description": "A 1 BHK room available for rent in a good location. The "
     },
     {
         "name": "2 BHK Room",
         "price": "15000",
-        "area": 1000,
+        "area":" 1000 ft",
         "datePosted": "AUG 22",
-        "image": "https://c4.wallpaperflare.com/wallpaper/846/173/87/5c1cbaf96bcec-wallpaper-preview.jpg"
+        "image": "https://c4.wallpaperflare.com/wallpaper/846/173/87/5c1cbaf96bcec-wallpaper-preview.jpg",
+        "description": "A 2 BHK room available for rent in a good location. The "
     },
     {
         "name": "2.5 BHK Room",
         "price": "25000",
-        "area": 3000,
+        "area": "3000 ft",
         "datePosted": "AUG 24",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFNiBHtuZ_NvDp0HqQEK35CmINCljNWeUJhtht-Brr9J_Rz4xcGzBOMwCUmIl0fxsbdw&usqp=CAU"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLFNiBHtuZ_NvDp0HqQEK35CmINCljNWeUJhtht-Brr9J_Rz4xcGzBOMwCUmIl0fxsbdw&usqp=CAU",
+        "description": "A 1 BHK room available for rent in a good location. The "
     },
     {
         "name": "2 BHK Room",
         "price": "16000",
-        "area": 1000,
+        "area": "1000 ft",
         "datePosted": "SEPT 05",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOvb0e6OBdJLyiE_jPOy2jXfabU51cbefp0-6bRFxFyd3Z8jwL1bErwwkHRg4X2vAmlM&usqp=CAU"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOvb0e6OBdJLyiE_jPOy2jXfabU51cbefp0-6bRFxFyd3Z8jwL1bErwwkHRg4X2vAmlM&usqp=CAU",
+        "description": "A 1 BHK room available for rent in a good location. The "
     },
     {
         "name": "2 BHK Room",
         "price": "35000",
-        "area": 1000,
+        "area": "1000 ft",
         "datePosted": "AUG 14",
-        "image": "https://images4.alphacoders.com/733/733535.jpg"
+        "image": "https://images4.alphacoders.com/733/733535.jpg",
+                "description": "A 1 BHK room available for rent in a good location. The "
     },
     {
         "name": "1 BHK Room",
         "price": "5000",
-        "area": 1000,
+        "area": "1000 ft",
         "datePosted": "AUG 24",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkxWFXjBmgXpp2Wyf3f9r1Rx6Ty5MhyDGTTeFrvXt66mZhJ62pU_mBaaBczc28fxAHYuE&usqp=CAU"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkxWFXjBmgXpp2Wyf3f9r1Rx6Ty5MhyDGTTeFrvXt66mZhJ62pU_mBaaBczc28fxAHYuE&usqp=CAU",
+        "description": "A 1 BHK room available for rent in a good location. The "
     },
     {
         "name": "1 BHK Room",
         "price": "5000",
-        "area": 1000,
+        "area": "1000 ft",
         "datePosted": "AUG 24",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbVX6k9Tuqczblygu1rEJcA2Ldh-jDOmg81KHKMhAAuWZAWCR9lEwi909DifVr3-FROs8&usqp=CAU"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbVX6k9Tuqczblygu1rEJcA2Ldh-jDOmg81KHKMhAAuWZAWCR9lEwi909DifVr3-FROs8&usqp=CAU",
+        "description": "A 1 BHK room available for rent in a good location. The "
     },
     {
         "name": "1 BHK Room",
         "price": "5000",
-        "area": 1000,
+        "area": "1000 ft",
         "datePosted": "AUG 24",
-        "image": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D"
+        "image": "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D",
+        "description": "A 1 BHK room available for rent in a good location. The "
     },
     {
         "name": "1 BHK Room",
         "price": "5000",
-        "area": 1000,
+        "area":"1000 ft",
         "datePosted": "AUG 24",
-        "image": "https://media.istockphoto.com/id/496770244/photo/single-family-home-and-garage.jpg?s=612x612&w=0&k=20&c=qzUzH_HtkEQZLEs6ASsFNZSsl6ezAxRHNPr8lQ6U4Uk="
+        "image": "https://media.istockphoto.com/id/496770244/photo/single-family-home-and-garage.jpg?s=612x612&w=0&k=20&c=qzUzH_HtkEQZLEs6ASsFNZSsl6ezAxRHNPr8lQ6U4Uk=",
+        "description": "A 1 BHK room available for rent in a good location. The "
     },
     {
         "name": "1 BHK Room",
         "price": "5000",
-        "area": 1000,
+        "area": "1000 ft",
         "datePosted": "AUG 24",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQF9AVCijfnRMO-HEZ8R7O-boJPIaqfz_SeG3mSL8XAcAqIkOwXqdQc3MtwG-D7-iG8hU&usqp=CAU"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQF9AVCijfnRMO-HEZ8R7O-boJPIaqfz_SeG3mSL8XAcAqIkOwXqdQc3MtwG-D7-iG8hU&usqp=CAU",
+        "description": "A 1 BHK room available for rent in a good location. The "
     }
 ]

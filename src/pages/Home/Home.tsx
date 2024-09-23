@@ -42,7 +42,7 @@ const Home = () => {
             View More
           </Typography>
         </Box>
-       <Grid container spacing={2}>
+       <Grid sx={{mt:"1rem"}} container spacing={2}>
       {DummyProperties?.map((datas:Property)=>{
         return(
         <IndividualProperties datas={datas}/>
